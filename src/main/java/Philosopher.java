@@ -1,7 +1,6 @@
 
 
 public class Philosopher implements Runnable{
-    private String state;
     private Fork forkLeft;
     private Fork forkRight;
     private int index;
